@@ -1,0 +1,8 @@
+type: marketplace
+title: Data visualization with seaborn
+language: English
+summary: Short course on data visualization with Python and seaborn.
+programming_language: Python
+environment: unittest
+content:
+  - lesson1
